@@ -1,5 +1,5 @@
 ## Overview
-Repository creates for learning Maven.
+Repository was creatd for learning Maven.
 
 ## Building
 ...
